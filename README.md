@@ -5,9 +5,9 @@ Generally
 The data is taken from the data.txt file. The data were written to other files according to the grades of the students.
 
 # Base data format
-Eleanor-Taylor Fizik 78/90/70
-Lyla-Dawson Matematik 98/67/100
-Cora-Gill-Maryam Matematik Müh 76/78/93
+-Eleanor-Taylor Fizik 78/90/70
+-Lyla-Dawson Matematik 98/67/100
+-Cora-Gill-Maryam Matematik Müh 76/78/93
 
 # Desired format(this is how it will be written to other files)
 | Name          | Surname   | Department     | E1   | E2   | Fin  | Average | Letter | Status |
