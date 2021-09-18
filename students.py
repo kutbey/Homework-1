@@ -16,7 +16,7 @@ def truncate(f, n):
     """
     To get 2 digits after the comma
     :param f:number
-    :param n:how digits
+    :param n:How many digits number
     """
     from math import floor
     return floor(f * 10 ** n) / 10 ** n
