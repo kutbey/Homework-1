@@ -1,0 +1,54 @@
+Name             Surname          Department          E1      E2      Fin     Average     Letter      Status  
+
+Robin            Spencer          Matematik           89      98      97      94.90       AA          Passed  
+Mark Conor       Smith            Kimya Müh           96      86      90      90.60       AA          Passed  
+Lyla             Dawson           Matematik           98      67      100     89.50       BA          Passed  
+Scarlett         Stone            Matematik           98      67      100     89.50       BA          Passed  
+Joseph Dillon    Spencer          Matematik Müh       98      67      100     89.50       BA          Passed  
+Stella           Thompson         Fizik               95      78      94      89.50       BA          Passed  
+Brook            Duncan           Bilgisayar Müh      98      67      98      88.70       BA          Passed  
+Donald Kenneth   Eğilmez          Kimya Müh           85      79      92      86.00       BA          Passed  
+Bailey Gill      River            Fizik               87      77      90      85.19       BA          Passed  
+Cora Gill        Maryam           Matematik Müh       76      78      93      83.40       BB          Passed  
+Shay             Smith            Matematik Müh       76      70      98      83.00       BB          Passed  
+Robert           Harper           Kimya               96      86      70      82.60       BB          Passed  
+Rose Jasmine     Francis          Matematik           88      66      90      82.19       BB          Passed  
+Michael          Alex             Kimya Müh           86      56      98      81.80       BB          Passed  
+Thomas James     Zachary          Gıda Müh            86      77      81      81.30       BB          Passed  
+Paul Rufus       Pearson          Matematik           60      84      95      81.19       BB          Passed  
+Brian            John             Kimya               86      90      70      80.80       BB          Passed  
+Steven           Johnson          Fizik               89      68      84      80.70       BB          Passed  
+Glen             Francis          Fizik               88      76      78      80.40       BB          Passed  
+Jorgie           James            Bilgisayar Müh      81      62      92      79.70       CB          Passed  
+Silver           Barker           Matematik           81      62      92      79.70       CB          Passed  
+Christopher      Dawson           Bilgisayar Müh      81      62      92      79.70       CB          Passed  
+Alicia Jody      Pearson          Fizik               56      76      99      79.20       CB          Passed  
+Lara             Mccarthy         Kimya Müh           76      94      70      79.00       CB          Passed  
+Lily Rose        Kelly            Matematik           75      81      80      78.80       CB          Passed  
+Blossom          Cooper           Bilgisayar Müh      67      79      87      78.59       CB          Passed  
+Eleanor          Taylor           Fizik               78      90      70      78.40       CB          Passed  
+Darcey           Woods            Fizik               42      87      98      77.90       CB          Passed  
+Jamie            Dawson           Fizik Müh           42      87      98      77.90       CB          Passed  
+Morgan           Pearson          Bilgisayar Müh      42      87      98      77.90       CB          Passed  
+Alexis           Hamilton         Fizik               42      87      98      77.90       CB          Passed  
+David            Knight           Bilgisayar Müh      42      87      98      77.90       CB          Passed  
+Phoenix          Phillips         Matematik           67      87      79      77.80       CB          Passed  
+Keira            Khan             Bilgisayar Müh      77      46      99      76.50       CB          Passed  
+Val              Kaur             Matematik Müh       67      54      100     76.30       CB          Passed  
+Arabella         Wallace          Bilgisayar Müh      90      66      70      74.80       CC          Passed  
+Ariella          Hamilton         Fizik               36      87      94      74.50       CC          Passed  
+George           Aston            Kimya Müh           66      76      78      73.80       CC          Passed  
+Gabe             Wells            Bilgisayar Müh      56      94      72      73.80       CC          Passed  
+Lee              Fletcher         Bilgisayar Müh      93      56      71      73.09       CC          Passed  
+Brook            Kaur             Matematik Müh       80      70      70      73.00       CC          Passed  
+Kevin Maxwell    Kennedy          Matematik           62      85      71      72.50       CC          Passed  
+Jason            Rogers           Fizik Müh           85      26      98      72.50       CC          Passed  
+Jamie            Henderson        Matematik           28      88      94      72.40       CC          Passed  
+Ariella          Davies           Fizik Müh           17      89      98      71.00       CC          Passed  
+Amara Allen      Eloise           Kimya Müh           98      0       100     69.40       CC          Passed  
+Ronald           Tate             Bilgisayar Müh      60      48      91      68.80       CC          Passed  
+Daniel           Porter           Fizik Müh           16      88      92      68.00       CC          Passed  
+Bev              Cunningham       Kimya Müh           18      88      90      67.80       CC          Passed  
+Anthony          Casper           Fizik Müh           48      64      78      64.80       DC          Passed  
+Charles Booth    Hamish           Bilgisayar Müh      16      88      78      62.40       DC          Passed  
+John             Hunter           Fizik               48      60      72      61.20       DC          Passed  

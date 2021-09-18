@@ -1,0 +1,16 @@
+Name             Surname          Department          E1      E2      Fin     Average     Letter      Status  
+
+Marley Sienna    Robertson        Bilgisayar Müh      99      100     69      87.30       FF          Failed  
+Edward Frankie   Adams            Fizik               100     100     67      86.80       FF          Failed  
+Martin           Hank             Bilgisayar Müh      86      89      67      79.30       FF          Failed  
+James            Harper           Bilgisayar Müh      78      84      68      75.80       FF          Failed  
+Brynn            Thomas           Kimya Müh           70      90      68      75.20       FF          Failed  
+Taylor           Evans            Kimya Müh           67      84      69      72.90       FF          Failed  
+Tim              Jack             Matematik Müh       86      77      58      72.09       FF          Failed  
+Amalia           Atkinson         Fizik Müh           83      73      60      70.80       FF          Failed  
+William          Hussain          Fizik Müh           64      74      69      69.00       FF          Failed  
+Richard          Jeff             Matematik           68      76      45      61.20       FF          Failed  
+Kenneth          Rogers           Fizik               46      73      60      59.70       FF          Failed  
+Jemima           Fox              Matematik Müh       63      26      79      58.30       FF          Failed  
+Darcey           Parker           Fizik               10      50      100     58.00       FF          Failed  
+Jo               Khan             Matematik Müh       18      76      49      47.80       FF          Failed  
