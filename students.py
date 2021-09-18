@@ -56,10 +56,10 @@ def scanFile(fileName: str) -> list:
     Takes data rows from data.txt and converts them to the appropriate format
     :param fileName:for example data.txt
     :return:list object
-    base data:
+    base data rows:
     Eleanor-Taylor Fizik 78/90/70
     parsed data:
-    ('Eleanor', 'Taylor', 'Fizik', '78', '90', '70', 78.4, 'CB', True)
+    [('Eleanor', 'Taylor', 'Fizik', '78', '90', '70', 78.4, 'CB', True)]
     """
     studentsList = []
     try:
