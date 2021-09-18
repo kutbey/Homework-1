@@ -16,15 +16,15 @@ The data is taken from the data.txt file. The data were written to other files a
 | Marley Sienna | Robertson | Bilgisayar Müh | 99   | 100  | 69   | 87.30   | FF     | Failed |
 
 # avarage note calculation
-:param ex1: midterm 1
-:param ex2: midterm 1
-:param fin: final exam
-midterm_rate=30 , final_rate=40
-avarageNoteFormul = ((ex1 + ex2) * midterm_rate) + (fin * final_rate)
+- :param ex1: midterm 1
+- :param ex2: midterm 2
+- :param fin: final exam
+- midterm_rate=30 , final_rate=40
+- avarageNoteFormul = ((ex1 + ex2) * midterm_rate) + (fin * final_rate)
 
 # Student's passing conditions
-passing grade=60 final grade=70
-avarage note > passing grade and final exam > final grade
+- passing grade=60 final grade=70
+- avarage note > passing grade and final exam > final grade
 
 
 
