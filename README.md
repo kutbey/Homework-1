@@ -19,7 +19,7 @@ The data is taken from the data.txt file. The data were written to other files a
 - :param ex1: midterm 1
 - :param ex2: midterm 2
 - :param fin: final exam
-- midterm_rate=30 , final_rate=40
+- midterm_rate=0.3 , final_rate=0.4
 - avarageNoteFormul = ((ex1 + ex2) * midterm_rate) + (fin * final_rate)
 
 # Student's passing conditions
