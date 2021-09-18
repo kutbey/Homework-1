@@ -53,7 +53,7 @@ def isPassed(ex1: float, ex2: float, fin: float, midterm_rate: float = 0.3, fina
 
 def scanFile(fileName: str) -> list:
     """
-    Takes files from filename and converts them to the appropriate format
+    Takes files from data.txt and converts them to the appropriate format
     :param fileName:for example data.txt
     :return:list object
     base data:
