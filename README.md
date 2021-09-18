@@ -24,7 +24,7 @@ The data is taken from the data.txt file. The data were written to other files a
 
 # Student's passing conditions
 - passing grade=60 final grade=70
-- avarage note > passing grade and final exam > final grade
+- avarage note >= passing grade and final exam >= final grade
 
 
 
