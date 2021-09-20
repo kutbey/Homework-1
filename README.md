@@ -1,4 +1,5 @@
 # Homework-1
+# Python 3.10
 Parsing the data from the data.txt file and writing it to other files as desired 
 This is a sample data parsing exercise
 Generally
