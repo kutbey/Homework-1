@@ -1,4 +1,4 @@
-Adı-soyadı Bölümü Birinci Vize/İkinci Vize/Final
+Name-Surname Department MidtermExam1/MidtermExam2/Final
 Eleanor-Taylor Fizik 78/90/70
 Lyla-Dawson Matematik 98/67/100
 Cora-Gill-Maryam Matematik Müh 76/78/93
